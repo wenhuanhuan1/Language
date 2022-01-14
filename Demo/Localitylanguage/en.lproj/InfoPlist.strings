@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Localitylanguage
+
+  Created by WHH on 2022/1/14.
+  
+*/
+CFBundleDisplayName = "TestLanguage";

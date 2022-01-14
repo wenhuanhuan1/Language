@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Localitylanguage
+
+  Created by WHH on 2022/1/13.
+  
+*/
+
+loginKey = "登录DL";
+mainTabBarKey = "首页";
+mineTabBarKey = "我的DL";

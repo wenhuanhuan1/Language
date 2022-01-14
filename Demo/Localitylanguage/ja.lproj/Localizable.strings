@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Localitylanguage
+
+  Created by WHH on 2022/1/13.
+  
+*/
+
+loginKey = "日本登录";
+mainTabBarKey = "日本主页";
+mineTabBarKey = "日本TabBar";
